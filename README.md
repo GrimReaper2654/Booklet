@@ -4,3 +4,6 @@ My good friend Edward believes that it would be a pain to create a booklet maker
 I'm here to prove that javascript is superior. <br>
 <br>
 Edit: Edward was right...<br>
+## Update
+Edward's booklet thing is costing him lots of money so he has shut it down (I think)<br>
+RIP Edward's wallet
