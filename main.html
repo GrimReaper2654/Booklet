@@ -8,9 +8,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.6.347/pdf.min.js"></script>
 </head>
 <body>
-    <h1>PDF --> Image --> Booklet using pure JS</h1>
+    <h1>PDF ---> Image ---> Booklet using pure JS</h1>
     <h1>PDF here ---> <input type="file" id="pdf-upload" accept="application/pdf" /><button onclick="createNewPDF()"><h3>Make Booklet</h3></button></h1>
-    <h1>This may take a while if pdf is large. Trust me, it's just slow, not broken.</h1>
+    <h3>Print pdf outputed doublesided and then fold along middle to create booklet. How to stable is not my problem.</h3>
+    <h3>Only works for A4 sized stuff.</h3>
+    <h3>This may take a while if pdf is large. Trust me, it's just slow, not broken.</h3>
     <div id="pdf-display"></div>
 
     <script src="main.js"></script>
